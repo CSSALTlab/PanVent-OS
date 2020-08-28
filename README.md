@@ -1,2 +1,2 @@
 # PanVent-OS
-CSSALT lab - University of Florida - PanVent-OS controller software
+CSSALT lab - University of Florida - PanVent™-OS controller software
